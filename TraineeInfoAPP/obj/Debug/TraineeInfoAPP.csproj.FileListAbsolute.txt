@@ -1,0 +1,9 @@
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\bin\Debug\TraineeInfoAPP.exe.config
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\bin\Debug\TraineeInfoAPP.exe
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\bin\Debug\TraineeInfoAPP.pdb
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.csprojResolveAssemblyReference.cache
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.TraineeInfoUI.resources
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.Properties.Resources.resources
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.csproj.GenerateResource.Cache
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.exe
+G:\Project\TraineeInfoAPP\TraineeInfoAPP\obj\Debug\TraineeInfoAPP.pdb
